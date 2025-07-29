@@ -5,6 +5,7 @@ const matrix = {
         next_button: 'Weiter zur Größe',
         tabs: {
             default: {
+                backend_name:'',
                 frontend_name: '',
                 type: 'descriptive',
                 products: [
